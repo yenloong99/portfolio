@@ -1,5 +1,5 @@
-$(document).ready(function(){
-  $("p").click(function(){
-    alert("The paragraph was clicked.");
-  });
-});
+// $(document).ready(function(){
+//   $("p").click(function(){
+//     alert("Why click me");
+//   });
+// });
